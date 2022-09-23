@@ -23,7 +23,7 @@ Partner Affiliates
     :target: https://runbot.odoo-community.org/runbot/134/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module adds a new tab "Affiliates" in the partner form view and modifies the purpose of the tab "Contacts & Addresses". This new tab "Affiliates" is visible only if the partner is a company.
 
@@ -34,6 +34,16 @@ With this module :
 - The tab "Affiliates" is focused on storing information about holding companies and other company structures.
 
 - The tab "Contacts & Addresses" only shows individuals who are linked to the company (employees or others).
+
+该模块在合作伙伴表单视图中添加了一个新选项卡“Affiliates”，并修改了“Contacts & Addresses”选项卡的用途。
+
+仅当合作伙伴是公司时，此新选项卡“附属公司”才可见。 Odoo Vanilla 中现有的“联系人和地址”选项卡专注于存储有关公司员工和公司本身的联系信息。
+
+使用此模块：
+
+- “附属公司”选项卡专注于存储有关控股公司和其他公司结构的信息。
+
+- “联系人和地址”选项卡仅显示与公司相关的个人（员工或其他人）。
 
 **Table of contents**
 

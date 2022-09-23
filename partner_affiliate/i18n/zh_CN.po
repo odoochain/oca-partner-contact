@@ -56,12 +56,12 @@ msgstr ""
 #. module: partner_affiliate
 #: model_terms:ir.ui.view,arch_db:partner_affiliate.view_partner_form_add_affiliate
 msgid "Mobile:"
-msgstr ""
+msgstr "手机"
 
 #. module: partner_affiliate
 #: model_terms:ir.ui.view,arch_db:partner_affiliate.view_partner_form_add_affiliate
 msgid "Phone:"
-msgstr ""
+msgstr "电话"
 
 #~ msgid "Partner"
 #~ msgstr "业务伙伴"
