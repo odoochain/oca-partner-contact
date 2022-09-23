@@ -8,7 +8,7 @@
     "depends": ["base_location"],
     "author": "Mick Tseng, Odoo Taiwan",
     "license": "AGPL-3",
-    "summary": """台灣地址相關功能強化""",
+    "summary": """台灣地区地址相關功能強化""",
     "website": "https://github.com/OCA/partner-contact",
     "data": ["data/res.city.csv", "data/res.city.zip.csv"],
     "demo": [],
