@@ -12,4 +12,7 @@
     "depends": ["base"],
     "website": "https://github.com/OCA/partner-contact",
     "data": ["views/res_partner.xml"],
+    'excludes': [
+        'base_partner_one2many_phone',
+    ],
 }
